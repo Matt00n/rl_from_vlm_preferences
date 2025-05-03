@@ -1,0 +1,36 @@
+absl-py==2.1.0
+ale-py==0.8.1
+AutoROM==0.6.1
+AutoROM.accept-rom-license==0.6.1
+chex==0.1.86
+dm-tree==0.1.8
+flax==0.8.2
+gymnasium==0.29.1
+gymnasium-robotics==1.2.4
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+jax==0.4.26
+jaxlib==0.4.26
+jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
+Jinja2==3.1.3
+keras==3.9.2
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+ml_dtypes==0.5.1
+moviepy==1.0.3
+mujoco==2.3.7
+numpy==1.26.4
+openai==1.16.2
+opencv-python==4.9.0.80
+opt-einsum==3.3.0
+optax==0.2.2
+optree==0.11.0
+orbax-checkpoint==0.5.9
+pillow==10.3.0
+pygame==2.5.2
+requests==2.31.0
+tensorflow-probability==0.24.0
+tf_keras==2.19.0
+tokenizers==0.19.1
+tqdm==4.66.2
+transformers==4.44.2
+urllib3==2.2.1
